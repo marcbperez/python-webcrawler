@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## 0.3.0 - 2017-02-01
+
+### Added
+
+  - Package setup, configuration and manifest.
+  - Package README in reStructuredText format.
+
 ## 0.2.0 - 2017-01-31
 
 ### Added
