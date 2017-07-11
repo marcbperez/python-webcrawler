@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+## 0.5.1 - 2017-07-11
+
+### Fixed
+
+  - Typographical errors in build script and README file.
+
 ## 0.5.0 - 2017-04-13
 
 ### Added

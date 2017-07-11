@@ -19,7 +19,7 @@ task watch(type: Exec) {
     exclude "**/*.pyc", "**/__pycache__"
   }
 
-  description "Watches for canges, use 'gradle --continuous'."
+  description "Watches for changes."
   inputs.files(sourceFiles, testFiles)
   commandLine "true"
 
