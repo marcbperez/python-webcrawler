@@ -2,7 +2,6 @@
 
 Crawls HTML pages for prices and other pieces of data.
 
-
 ## Installation
 
 Start by downloading and building the project when necessary. The following
